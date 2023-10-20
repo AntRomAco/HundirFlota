@@ -1,0 +1,16 @@
+﻿2023-10-20 17:40:20,779 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Ship
+2023-10-20 17:40:20,798 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has hit an attack
+2023-10-20 17:40:25,812 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Water
+2023-10-20 17:40:25,817 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Computer has missed an attack
+2023-10-20 17:40:33,890 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Ship
+2023-10-20 17:40:33,909 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has hit an attack
+2023-10-20 17:40:38,934 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Water
+2023-10-20 17:40:38,940 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Computer has missed an attack
+2023-10-20 17:40:44,199 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Ship
+2023-10-20 17:40:44,208 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has hit an attack
+2023-10-20 17:40:49,233 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Water
+2023-10-20 17:40:49,239 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Computer has missed an attack
+2023-10-20 17:40:53,531 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Ship
+2023-10-20 17:40:53,552 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has hit an attack
+2023-10-20 17:40:58,577 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Water
+2023-10-20 17:40:58,583 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Computer has missed an attack

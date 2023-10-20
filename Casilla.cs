@@ -14,10 +14,10 @@ namespace HundirFlota
         private int fila;
         private int columna;
         private string estado;
-        private string agua = "-";
-        private string barco = "B";
-        private string atacado = "*";
-        private string tocado = "X";
+        private string agua = lang.GetString("agua");
+        private string barco = lang.GetString("barco");
+        private string atacado = lang.GetString("atacado");
+        private string tocado = lang.GetString("tocado");
         public Casilla(int fila, int columna)
         {
             this.fila = fila;
@@ -32,6 +32,7 @@ namespace HundirFlota
         public void setEstado(string estado) { this.estado = estado; }
         public string getAgua() { return agua; }
         public string getBarco() { return barco; }
+        public void setBarco(string barco) { this.barco = barco; }
         public string getAtacado() { return atacado; }
         public string getTocado() { return tocado; }
     }

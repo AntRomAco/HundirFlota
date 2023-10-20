@@ -1,0 +1,38 @@
+﻿2023-10-20 15:17:14,824 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Se ha iniciado la aplicación
+2023-10-20 15:17:18,503 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha iniciado una partida
+2023-10-20 15:17:18,507 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Tablero vacío generado
+2023-10-20 15:17:18,508 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 4 - Columna: 0
+2023-10-20 15:17:18,509 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,509 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 0 - Columna: 1
+2023-10-20 15:17:18,510 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,510 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 5 - Columna: 7
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 2 - Columna: 7
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 5 - Columna: 0
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,511 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Tablero de jugador generado
+2023-10-20 15:17:18,512 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Tablero vacío generado
+2023-10-20 15:17:18,512 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 4 - Columna: 4
+2023-10-20 15:17:18,512 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,513 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 1 - Columna: 7
+2023-10-20 15:17:18,513 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,513 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 4 - Columna: 4
+2023-10-20 15:17:18,514 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > WARN:: Ya existe un barco en la casilla
+2023-10-20 15:17:18,514 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 6 - Columna: 2
+2023-10-20 15:17:18,514 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,515 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 1 - Columna: 2
+2023-10-20 15:17:18,515 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,515 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Fila: 2 - Columna: 3
+2023-10-20 15:17:18,515 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Barco colocado
+2023-10-20 15:17:18,515 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Tablero de ordenador generado
+2023-10-20 15:17:38,891 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 15:17:38,900 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 15:17:43,938 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 15:17:43,944 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 15:17:47,920 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 15:17:47,932 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 15:17:52,952 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 15:17:52,958 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 15:17:56,869 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 15:17:56,885 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque

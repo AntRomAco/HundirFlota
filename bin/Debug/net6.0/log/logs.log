@@ -1,0 +1,4 @@
+﻿2023-10-20 17:41:02,732 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Attack - Ship
+2023-10-20 17:41:02,745 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has hit an attack
+2023-10-20 17:41:05,252 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player has won the game
+2023-10-20 17:41:18,819 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: User has exited the application

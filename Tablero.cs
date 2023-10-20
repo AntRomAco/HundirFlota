@@ -1,4 +1,5 @@
-﻿using System;
+﻿using log4net;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace HundirFlota
         /*
          * Programa para generar y controlar el tablero de juego.
          */
+        private static readonly ILog Log = Logs.GetLogger();
+
         private static int filas = 8;
         private static int columnas = 8;
         private static int barcos = 5;
@@ -27,6 +30,7 @@ namespace HundirFlota
                     casillas[i, j].setEstado(casillas[i, j].getAgua());
                 }
             }
+            Log.Info(lang.GetString("log18"));
             for (int i = 0; i < barcos; i++)
             {
                 bool repetir = true;
@@ -39,12 +43,14 @@ namespace HundirFlota
                     {
                         if (flota[j].Equals(nuevoBarco))
                         {
+                            Log.Warn(lang.GetString("log19"));
                             existe = true;
                             break;
                         }
                     }
                     if (!existe)
                     {
+                        Log.Info(lang.GetString("log20"));
                         flota[i] = nuevoBarco;
                         casillas[posicionFila, posicionColumna].setEstado(casillas[posicionFila, posicionColumna].getBarco());
                         repetir = false;
@@ -55,7 +61,7 @@ namespace HundirFlota
         public void tableroJugador() // Visualiza el tablero del jugador, con barcos visibles.
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("0 1 2 3 4 5 6 7");
+            Console.WriteLine(lang.GetString("num"));
             Console.ResetColor();
             for (int i = 0; i < filas; i++)
             {
@@ -71,7 +77,7 @@ namespace HundirFlota
         public void tableroOrdenador() // Visualiza el tablero del ordenador, sin barcos visibles.
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("0 1 2 3 4 5 6 7");
+            Console.WriteLine(lang.GetString("num"));
             Console.ResetColor();
             for (int i = 0; i < filas; i++)
             {
@@ -92,10 +98,12 @@ namespace HundirFlota
             if (casillas[fila, columna].getEstado() == casillas[fila, columna].getBarco())
             {
                 casillas[fila, columna].setEstado(casillas[fila, columna].getTocado());
+                Log.Info(lang.GetString("log21"));
                 return true;
             } else
             {
                 casillas[fila, columna].setEstado(casillas[fila, columna].getAtacado());
+                Log.Info(lang.GetString("log22"));
                 return false;
             }
         }

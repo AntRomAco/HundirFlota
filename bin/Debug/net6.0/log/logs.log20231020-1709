@@ -1,0 +1,8 @@
+﻿2023-10-20 17:09:02,232 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 17:09:02,251 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 17:09:06,387 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 17:09:06,401 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 17:09:08,908 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El jugador ha ganado la partida
+2023-10-20 17:09:13,481 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El jugador ha salido del juego
+2023-10-20 17:09:41,927 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Se ha iniciado la aplicación
+2023-10-20 17:09:57,810 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Se ha iniciado la aplicación

@@ -1,0 +1,14 @@
+﻿2023-10-20 17:08:28,052 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 17:08:28,069 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 17:08:33,093 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 17:08:33,099 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 17:08:37,397 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 17:08:37,408 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 17:08:42,431 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 17:08:42,437 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 17:08:47,095 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 17:08:47,103 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 17:08:52,137 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 17:08:52,143 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 17:08:57,185 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 17:08:57,199 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque

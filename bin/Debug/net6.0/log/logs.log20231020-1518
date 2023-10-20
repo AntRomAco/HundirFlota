@@ -1,0 +1,10 @@
+﻿2023-10-20 15:18:01,915 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 15:18:01,941 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 15:18:05,799 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 15:18:05,811 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 15:18:10,845 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Agua
+2023-10-20 15:18:10,851 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El ordenador ha fallado un ataque
+2023-10-20 15:18:15,034 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{ataque} > INFO:: Ataque - Barco
+2023-10-20 15:18:15,047 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El usuario ha acertado un ataque
+2023-10-20 15:18:17,549 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El jugador ha ganado la partida
+2023-10-20 15:18:20,612 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: El jugador ha salido del juego

@@ -1,0 +1,28 @@
+﻿2023-10-20 17:39:49,582 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Application started and configurated
+2023-10-20 17:39:51,937 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: User has started a game
+2023-10-20 17:39:51,941 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Empty board generated
+2023-10-20 17:39:51,942 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 5 - Column: 0
+2023-10-20 17:39:51,943 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,945 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 7 - Column: 6
+2023-10-20 17:39:51,946 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,946 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 7 - Column: 4
+2023-10-20 17:39:51,947 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,947 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 1 - Column: 2
+2023-10-20 17:39:51,947 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,947 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 6 - Column: 6
+2023-10-20 17:39:51,947 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,948 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Player board generated
+2023-10-20 17:39:51,948 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Empty board generated
+2023-10-20 17:39:51,948 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 7 - Column: 4
+2023-10-20 17:39:51,948 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,948 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 7 - Column: 4
+2023-10-20 17:39:51,949 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > WARN:: There's already a ship in the square
+2023-10-20 17:39:51,949 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 2 - Column: 2
+2023-10-20 17:39:51,949 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,950 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 6 - Column: 2
+2023-10-20 17:39:51,950 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,950 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 4 - Column: 0
+2023-10-20 17:39:51,950 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,950 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Barco.cs]{GenerarBarco} > INFO:: Row: 6 - Column: 4
+2023-10-20 17:39:51,951 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Tablero.cs]{.ctor} > INFO:: Ship placed
+2023-10-20 17:39:51,951 > [C:\Users\anton\OneDrive\Documentos\2DAM\Interfaces\HundirFlota\Program.cs]{Main} > INFO:: Computer board generated
